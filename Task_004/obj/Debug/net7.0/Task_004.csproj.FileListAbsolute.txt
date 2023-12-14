@@ -1,0 +1,14 @@
+C:\GB\C sharp\Практика\ДЗ к семинарам\Семинар 2 дз\Task\Task_004\bin\Debug\net7.0\Task_004.exe
+C:\GB\C sharp\Практика\ДЗ к семинарам\Семинар 2 дз\Task\Task_004\bin\Debug\net7.0\Task_004.deps.json
+C:\GB\C sharp\Практика\ДЗ к семинарам\Семинар 2 дз\Task\Task_004\bin\Debug\net7.0\Task_004.runtimeconfig.json
+C:\GB\C sharp\Практика\ДЗ к семинарам\Семинар 2 дз\Task\Task_004\bin\Debug\net7.0\Task_004.dll
+C:\GB\C sharp\Практика\ДЗ к семинарам\Семинар 2 дз\Task\Task_004\bin\Debug\net7.0\Task_004.pdb
+C:\GB\C sharp\Практика\ДЗ к семинарам\Семинар 2 дз\Task\Task_004\obj\Debug\net7.0\Task_004.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\C sharp\Практика\ДЗ к семинарам\Семинар 2 дз\Task\Task_004\obj\Debug\net7.0\Task_004.AssemblyInfoInputs.cache
+C:\GB\C sharp\Практика\ДЗ к семинарам\Семинар 2 дз\Task\Task_004\obj\Debug\net7.0\Task_004.AssemblyInfo.cs
+C:\GB\C sharp\Практика\ДЗ к семинарам\Семинар 2 дз\Task\Task_004\obj\Debug\net7.0\Task_004.csproj.CoreCompileInputs.cache
+C:\GB\C sharp\Практика\ДЗ к семинарам\Семинар 2 дз\Task\Task_004\obj\Debug\net7.0\Task_004.dll
+C:\GB\C sharp\Практика\ДЗ к семинарам\Семинар 2 дз\Task\Task_004\obj\Debug\net7.0\refint\Task_004.dll
+C:\GB\C sharp\Практика\ДЗ к семинарам\Семинар 2 дз\Task\Task_004\obj\Debug\net7.0\Task_004.pdb
+C:\GB\C sharp\Практика\ДЗ к семинарам\Семинар 2 дз\Task\Task_004\obj\Debug\net7.0\Task_004.genruntimeconfig.cache
+C:\GB\C sharp\Практика\ДЗ к семинарам\Семинар 2 дз\Task\Task_004\obj\Debug\net7.0\ref\Task_004.dll
